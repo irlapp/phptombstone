@@ -1,5 +1,5 @@
 {
-    "name": "scheb/tombstone-analyzer",
+    "name": "irlapp/tombstone-analyzer",
     "description": "Generates reports based on the logs from scheb/tombstone-logger",
     "keywords": ["tombstone", "dead code removal", "static code analysis", "dynamic code analysis", "report"],
     "homepage": "https://github.com/scheb/tombstone-analyzer",
